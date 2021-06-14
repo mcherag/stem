@@ -101,6 +101,23 @@ img {
   height: 300px;
   flex-basis: 440px;
 }
+#cource .flex-item-7 {
+  display: flex;
+  height: 300px;
+  flex-basis: 440px;
+}
+
+#cource .flex-item-8 {
+  display: flex;
+  height: 300px;
+  flex-basis: 440px;
+}
+
+#cource .flex-item-9 {
+  display: flex;
+  height: 300px;
+  flex-basis: 440px;
+}
 
 @media (max-width:1337px) {
   #cource .container-fluid {
@@ -158,6 +175,33 @@ img {
   }
 
   #cource .flex-item-6 {
+    display: flex;
+    flex: 45%;
+    height: 300px;
+    flex-basis: 400px;
+    flex-grow: 0px;
+    margin: 0 10px;
+  }
+
+  #cource .flex-item-7 {
+    display: flex;
+    flex: 45%;
+    height: 300px;
+    flex-basis: 400px;
+    flex-grow: 0px;
+    margin: 0 10px;
+  }
+
+  #cource .flex-item-8 {
+    display: flex;
+    flex: 45%;
+    height: 300px;
+    flex-basis: 400px;
+    flex-grow: 0px;
+    margin: 0 10px;
+  }
+
+  #cource .flex-item-9 {
     display: flex;
     flex: 45%;
     height: 300px;
