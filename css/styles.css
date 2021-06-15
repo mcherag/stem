@@ -56,7 +56,7 @@ img {
 }
 
 /* Container-fluid */
-#cource .container-fluid {
+#course .container-fluid {
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -66,61 +66,77 @@ img {
   flex-wrap: wrap;
 }
 
-#cource .flex-item-1 {
+#course .flex-item-1 {
   display: flex;
   height: 300px;
   flex-basis: 440px;
 }
 
-#cource .flex-item-2 {
+#course .flex-item-2 {
   display: flex;
   height: 300px;
   flex-basis: 440px;
 }
 
-#cource .flex-item-3 {
+#course .flex-item-3 {
   display: flex;
   height: 300px;
   flex-basis: 440px;
 }
 
-#cource .flex-item-4 {
+#course .flex-item-4 {
   display: flex;
   height: 300px;
   flex-basis: 440px;
 }
 
-#cource .flex-item-5 {
+#course .flex-item-5 {
   display: flex;
   height: 300px;
   flex-basis: 440px;
 }
 
-#cource .flex-item-6 {
+#course .flex-item-6 {
   display: flex;
   height: 300px;
   flex-basis: 440px;
 }
-#cource .flex-item-7 {
-  display: flex;
-  height: 300px;
-  flex-basis: 440px;
-}
-
-#cource .flex-item-8 {
+#course .flex-item-7 {
   display: flex;
   height: 300px;
   flex-basis: 440px;
 }
 
-#cource .flex-item-9 {
+#course .flex-item-8 {
+  display: flex;
+  height: 300px;
+  flex-basis: 440px;
+}
+
+#course .flex-item-9 {
+  display: flex;
+  height: 300px;
+  flex-basis: 440px;
+}
+
+#course .flex-item-10 {
+  display: flex;
+  height: 300px;
+  flex-basis: 440px;
+}
+#course .flex-item-11 {
+  display: flex;
+  height: 300px;
+  flex-basis: 440px;
+}
+#course .flex-item-12 {
   display: flex;
   height: 300px;
   flex-basis: 440px;
 }
 
 @media (max-width:1337px) {
-  #cource .container-fluid {
+  #course .container-fluid {
     display: flex;
     justify-content: space-between;
     padding: 0;
@@ -129,7 +145,7 @@ img {
     flex-wrap: wrap;
   }
 
-  #cource .flex-item-1 {
+  #course .flex-item-1 {
     display: flex;
     flex: 45%;
     height: 300px;
@@ -138,7 +154,7 @@ img {
     margin: 0 10px;
   }
 
-  #cource .flex-item-2 {
+  #course .flex-item-2 {
     display: flex;
     flex: 45%;
     height: 300px;
@@ -147,7 +163,7 @@ img {
     margin: 0 10px;
   }
 
-  #cource .flex-item-3 {
+  #course .flex-item-3 {
     display: flex;
     flex: 45%;
     height: 300px;
@@ -156,7 +172,7 @@ img {
     margin: 0 10px;
   }
 
-  #cource .flex-item-4 {
+  #course .flex-item-4 {
     display: flex;
     flex: 45%;
     height: 300px;
@@ -165,7 +181,7 @@ img {
     margin: 0 10px;
   }
 
-  #cource .flex-item-5 {
+  #course .flex-item-5 {
     display: flex;
     flex: 45%;
     height: 300px;
@@ -174,7 +190,7 @@ img {
     margin: 0 10px;
   }
 
-  #cource .flex-item-6 {
+  #course .flex-item-6 {
     display: flex;
     flex: 45%;
     height: 300px;
@@ -183,7 +199,7 @@ img {
     margin: 0 10px;
   }
 
-  #cource .flex-item-7 {
+  #course .flex-item-7 {
     display: flex;
     flex: 45%;
     height: 300px;
@@ -192,7 +208,7 @@ img {
     margin: 0 10px;
   }
 
-  #cource .flex-item-8 {
+  #course .flex-item-8 {
     display: flex;
     flex: 45%;
     height: 300px;
@@ -201,7 +217,7 @@ img {
     margin: 0 10px;
   }
 
-  #cource .flex-item-9 {
+  #course .flex-item-9 {
     display: flex;
     flex: 45%;
     height: 300px;
@@ -209,10 +225,35 @@ img {
     flex-grow: 0px;
     margin: 0 10px;
   }
+  #course .flex-item-10 {
+    display: flex;
+    flex: 45%;
+    height: 300px;
+    flex-basis: 400px;
+    flex-grow: 0px;
+    margin: 0 10px;
+  }
+  #course .flex-item-11 {
+    display: flex;
+    flex: 45%;
+    height: 300px;
+    flex-basis: 400px;
+    flex-grow: 0px;
+    margin: 0 10px;
+  }
+  #course .flex-item-12 {
+    display: flex;
+    flex: 45%;
+    height: 300px;
+    flex-basis: 400px;
+    flex-grow: 0px;
+    margin: 0 10px;
+  }
+
 }
 
 @media (max-width:857px) {
-  #cource .container-fluid {
+  #course .container-fluid {
     display: flex;
     justify-content: center;
     padding: 0;
@@ -220,42 +261,78 @@ img {
     flex-wrap: wrap;
   }
 
-  #cource .flex-item-1 {
+  #course .flex-item-1 {
     display: flex;
     flex: 0 0 400px;
     height: 300px;
     margin: 10px 0;
   }
 
-  #cource .flex-item-2 {
+  #course .flex-item-2 {
     display: flex;
     flex: 0 0 400px;
     height: 300px;
     margin: 10px 0;
   }
 
-  #cource .flex-item-3 {
+  #course .flex-item-3 {
     display: flex;
     flex: 0 0 400px;
     height: 300px;
     margin: 10px 0;
   }
 
-  #cource .flex-item-4 {
+  #course .flex-item-4 {
     display: flex;
     flex: 0 0 400px;
     height: 300px;
     margin: 10px 0;
   }
 
-  #cource .flex-item-5 {
+  #course .flex-item-5 {
     display: flex;
     flex: 0 0 400px;
     height: 300px;
     margin: 10px 0;
   }
 
-  #cource .flex-item-6 {
+  #course .flex-item-6 {
+    display: flex;
+    flex: 0 0 400px;
+    height: 300px;
+    margin: 10px 0;
+  }
+  #course .flex-item-7 {
+    display: flex;
+    flex: 0 0 400px;
+    height: 300px;
+    margin: 10px 0;
+  }
+  #course .flex-item-8 {
+    display: flex;
+    flex: 0 0 400px;
+    height: 300px;
+    margin: 10px 0;
+  }
+  #course .flex-item-9 {
+    display: flex;
+    flex: 0 0 400px;
+    height: 300px;
+    margin: 10px 0;
+  }
+  #course .flex-item-10 {
+    display: flex;
+    flex: 0 0 400px;
+    height: 300px;
+    margin: 10px 0;
+  }
+  #course .flex-item-11 {
+    display: flex;
+    flex: 0 0 400px;
+    height: 300px;
+    margin: 10px 0;
+  }
+  #course .flex-item-12 {
     display: flex;
     flex: 0 0 400px;
     height: 300px;
