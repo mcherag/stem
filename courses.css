@@ -152,8 +152,6 @@ ul {
     flex-wrap: wrap;
     padding: 10px;
     order: 3;
-
-
   }
 
   .flexItem-3 {
@@ -165,10 +163,8 @@ ul {
     margin: 20px;
     border: 2px solid black;
     order: 2;
-
-
-
   }
+
   }
 
   @media (max-width:902px) {
